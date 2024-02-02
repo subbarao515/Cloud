@@ -3,7 +3,7 @@
 * Collaboration
 * Integration
 
-  Devops Key principles 
+Devops Key principles
 * Collaboration between development and operation communication
 * Feedback loops
 * Devops pipeline(Build, Test and Deploy)
