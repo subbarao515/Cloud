@@ -1,5 +1,5 @@
 ### Site Reliability Engineering 
-
+Its fill the gaps between devolpers,operations and administration 
 * Collaboration
 * Integration
 
@@ -8,9 +8,11 @@ Devops Key principles
 * Feedback loops
 * Devops pipeline(Build, Test and Deploy)
   
-  **1.Plan/Dev/Build**
+**.Plan/Dev/Build**
    * Shift left model
       *  Shift Left Testing
-      *  Shift Left Security  
+      *  Shift Left Security
+
+Principles of Site REliability Engineering 
 
 
