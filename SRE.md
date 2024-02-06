@@ -13,6 +13,19 @@ DevOps Key principles
       *  Shift Left Testing
       *  Shift Left Security
 
-Principles of Site Reliability Engineering 
+Principles of Site Reliability Engineering   
+Mean time to Failure(MTTF)   
+Mean time to Repair(MTTR}
+
+SRE
+* Minimize errors and failures
+* Try to minimize the cost
+* operations in right direction
+* 
+
+Devops
+* Accepts the failures
+* Gradual changes
+* 
 
 
