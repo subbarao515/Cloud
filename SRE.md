@@ -21,11 +21,15 @@ SRE
 * Minimize errors and failures
 * Try to minimize the cost
 * operations in right direction
-* 
+  
 
 Devops
 * Accepts the failures
-* Gradual changes
-* 
+* Gradual changes  
 
+**DevOps Research and Assessment(DORA) Matrics**
+* Deployment Frequency--> Low Medium  High
+* Lead time for Changes--> Low Medium  High
+* Time to restore service -->Low Medium  High
+* Change failure rate-->Low Medium  High
 
