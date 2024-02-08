@@ -33,3 +33,17 @@ Devops
 * Time to restore service -->Low Medium  High
 * Change failure rate-->Low Medium  High
 
+**Service Level Indicators(SLI)**
+* Request Latency
+* Error rate
+* System throughput
+* Availability
+* Yield
+* Durability
+
+**Service Level objectives(SLO)**
+**Service Level Agreement(SLA)**
+
+  
+
+
