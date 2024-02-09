@@ -42,6 +42,7 @@ Devops
 * Durability
 
 **Service Level objectives(SLO)**
+
 **Service Level Agreement(SLA)**
 
 **Measuring Service Risk**
