@@ -50,6 +50,15 @@ Devops
 * Improvemens
 * Degradations
 
+**SRE Service Life cycle**
+ * Architecture & Design
+ * Development
+ * Limited availability
+ * General availability
+ * Deprecation
+ 
+
+
   
 
 
