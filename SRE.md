@@ -62,6 +62,26 @@ Devops
  * Maturity matix
  * Re-evaluation
 
+**Blameless Postmortem Culture Creation**
+
+** Premortem---> 1.Imagine Failures 2.Work backwards
+
+ **Key Activites**  
+     * Analyze scenarios  
+     * Determine likelihood  
+     * Take preventative actions   
+**key Best Practices**
+  * Avoid Generalizations.
+  * Capture practical and actionable points
+  * Consider impact on existing plans
+**Postmortem Culture**
+* Document learnings
+* Disseminate learnings
+* Constructive feedback
+* Improvement and resilience
+* Iterative and collaborative process 
+
+
 
   
 
