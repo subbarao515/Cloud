@@ -84,8 +84,10 @@ Devops
 **Observability** -->Monitoring,Logging and Tracing 
 * Pillars of Observability--> Metrics,Logs,Traces
 
-**Event** -Time stamped   
-**Metrics**--Measured over a time interval 
+**Event** -->Time stamped   
+**Metrics**-->Measured over a time interval  
+**Traces**-->Visualize the Jounery of request or transaction
+Distributed Tracing 
   
 
 
