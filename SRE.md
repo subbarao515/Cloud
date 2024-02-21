@@ -82,7 +82,10 @@ Devops
 * Iterative and collaborative process 
 
 **Observability** -->Monitoring,Logging and Tracing 
+* Pillars of Observability--> Metrics,Logs,Traces
 
+**Event** -Time stamped   
+**Metrics**--Measured over a time interval 
   
 
 
