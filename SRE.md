@@ -81,8 +81,7 @@ Devops
 * Improvement and resilience
 * Iterative and collaborative process 
 
-**Observability**
-*Monitoring,Logging and Tracing 
+**Observability** -->Monitoring,Logging and Tracing 
 
   
 
