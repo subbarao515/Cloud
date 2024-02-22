@@ -79,7 +79,12 @@ Devops
 * Disseminate learnings
 * Constructive feedback
 * Improvement and resilience
-* Iterative and collaborative process 
+* Iterative and collaborative process
+* Benefits of Postmortem
+   * Share across organization
+   * Conduct cross team reviews
+   * Hold tranining Excercises
+   * Implement weekly reporting 
 
 **Observability** -->Monitoring,Logging and Tracing 
 * Pillars of Observability--> Metrics,Logs,Traces
