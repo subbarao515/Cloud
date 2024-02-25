@@ -114,12 +114,24 @@ Distributed Tracing
     * Code review
     * Code analysis
     * Code formatting
-
 ** Onboarding process**
  * Operations management
+   *  Identify current processes
+   *  Identify changes
+   *  Training
+   *  Feedback 
  * Change Management
+   * Models
+   * Processes
+   * Plans
  * Access management
+   * Framework
+   * Authentication
+   * Access control
  * Backup and recovery management
+    * Principles -Data handling
+    * Policies
+    * Types (backup- full, incremental)  
 
 
   
