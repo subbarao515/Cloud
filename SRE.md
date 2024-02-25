@@ -93,6 +93,29 @@ Devops
 **Metrics**-->Measured over a time interval  
 **Traces**-->Visualize the Jounery of request or transaction
 Distributed Tracing 
+
+**Production Readiness Review(PRR)**
+* Service level factors
+  * Service-Level Indiciator--->Identtify SLI
+  * Service-Level Objective--->Measure SLO
+  * Service-Level agreement -->Create Service level agreements
+* PRR Analysis
+  * Service Investigation
+  * Checklist Creation
+    * General information
+    * Development process
+    * Architecture
+    * Change management
+    * Capacity planning
+    * Observability
+    * Incident response 
+  * Identify Deficiencies
+  * Refactoring
+    * Code review
+    * Code analysis
+    * Code formatting
+
+
   
 
 
