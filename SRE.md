@@ -131,7 +131,20 @@ Distributed Tracing
  * Backup and recovery management
     * Principles -Data handling
     * Policies
-    * Types (backup- full, incremental)  
+    * Types (backup- full, incremental)
+
+**Measuring Method **     
+* Core web Vitals(customer Experience/UX)
+* Red method (request Driven)
+* Use method (Resource Driven)
+
+
+**Incident Metrices**   
+MTTD-->Mean time to Detect   
+MTTA-->Mean time to acknowlege     
+MTTR-->Mean time to Recovery   
+MTBF-->Mean time to between failures   
+
 
 
   
