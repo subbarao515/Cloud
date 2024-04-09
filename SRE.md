@@ -1,5 +1,5 @@
 ### Site Reliability Engineering 
-Its fills the gaps between developers,operations, and administration 
+It fills the gaps between developers, operations, and administration 
 * Collaboration
 * Integration
 
@@ -47,7 +47,7 @@ Devops
 
 **Measuring Service Risk**
 * Performance
-* Improvemens
+* Improvements
 * Degradations
 
 **SRE Service Life cycle**
@@ -64,9 +64,9 @@ Devops
 
 **Blameless Postmortem Culture Creation**
 
-** Premortem---> 1.Imagine Failures 2.Work backwards
+** Premortem---> 1. Imagine Failures 2. Work backwards
 
- **Key Activites**  
+ **Key Activities**  
      * Analyze scenarios  
      * Determine likelihood  
      * Take preventative actions   
@@ -91,12 +91,12 @@ Devops
 
 **Event** -->Time stamped   
 **Metrics**-->Measured over a time interval  
-**Traces**-->Visualize the Jounery of request or transaction
+**Traces**-->Visualize the journey of request or transaction
 Distributed Tracing 
 
 **Production Readiness Review(PRR)**
 * Service level factors
-  * Service-Level Indiciator--->Identtify SLI
+  * Service-Level Indicator--->Identtify SLI
   * Service-Level Objective--->Measure SLO
   * Service-Level agreement -->Create Service level agreements
 * PRR Analysis
@@ -139,11 +139,11 @@ Distributed Tracing
 * Use method (Resource Driven)
 
 
-**Incident Metrices**   
+**Incident Metrics**   
 MTTD-->Mean time to Detect   
-MTTA-->Mean time to acknowlege     
-MTTR-->Mean time to Recovery   
-MTBF-->Mean time to between failures   
+MTTA-->Mean time to acknowledge     
+MTTR-->Mean Time to Recovery   
+MTBF-->Mean time  between failures   
 
 
 
