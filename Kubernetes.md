@@ -12,5 +12,6 @@ docker context use default
 **error validating data: failed to download openapi: Get "https://xxxx/openapi/v2?timeout=32s": dial tcp XXXX: connectex: No connection could be made because the target machine actively refused it**
 minikube start
 
+minikube service --all 
 
 
