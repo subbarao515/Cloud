@@ -14,4 +14,45 @@ minikube start
 
 minikube service --all 
 
+**Containers** are an application-centric method to deliver high-performing, scalable applications on any infrastructure of your choice.
+
+**Pod** is the smallest scheduling work unit in Kubernetes
+
+**kubelet** is an agent running on each node, control plane and workers
+
+ **kube-proxy** is the network agent which runs on each node, control plane and workers
+
+**Container orchestrators** are tools that group systems together to form clusters where containers' deployment and management are automated 
+1. Performance.
+2. Cost efficiency.
+3. Workload distribution.
+4. Reduced latency.
+
+**Kubernetes Features**
+
+  * Automatic bin packing
+  * Designed for extensibility
+  * Self-healing
+  * Horizontal scaling
+  * Service discovery and load balancing
+  * Automated rollouts and rollbacks
+  * Secret and configuration management
+  * Storage orchestration
+  * Batch execution
+  * IPv4/IPv6 dual-stack
+
+**Control Plane Node Components**
+  * API Server
+  * Scheduler
+  * Controller Managers
+  * Key-Value Data Store
+    
+**Worker Node Components**
+  * DNS
+  * Dashboard
+  * Monitoring
+  * Logging
+  * Device plugins
+  
+
 
