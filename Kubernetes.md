@@ -53,6 +53,13 @@ minikube service --all
   * Monitoring
   * Logging
   * Device plugins
+
+**Kubernetes can be installed using different cluster configurations**
+ * All-in-One Single-Node Installation
+ * Single-Control Plane and Multi-Worker Installation
+ * Single-Control Plane with Single-Node etcd, and Multi-Worker Installation
+ * Multi-Control Plane and Multi-Worker Installation
+ * Multi-Control Plane with Multi-Node etcd, and Multi-Worker Installation
   
 
 
