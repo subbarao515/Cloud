@@ -143,7 +143,9 @@ Distributed Tracing
 MTTD-->Mean time to Detect   
 MTTA-->Mean time to acknowledge     
 MTTR-->Mean Time to Recovery   
-MTBF-->Mean time  between failures   
+MTBF-->Mean time  between failures  
+
+**Toil** --> Reduce or eliminate manaul  or low work tasks 
 
 
 
