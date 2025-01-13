@@ -147,6 +147,16 @@ MTBF-->Mean time  between failures
 
 **Toil** --> Reduce or eliminate manaul  or low work tasks 
 
+**SRE team responsible for**
+* Availability
+* Latency
+* Performance
+* Efficiency
+* Change management
+* Monitoring
+* Emergency response
+* Capacity planning 
+
 
 
   
