@@ -157,7 +157,7 @@ MTBF-->Mean time  between failures
 * Emergency response
 * Capacity planning 
 
-
+**Error rate** =ratio of errors or successes/total number of requests 
 
   
 
