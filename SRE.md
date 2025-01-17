@@ -159,6 +159,13 @@ MTBF-->Mean time  between failures
 
 **Error rate** =ratio of errors or successes/total number of requests 
 
+**Error Budgets**
+1.Define your problem space : SLOs and SLIs
+2.Make your system as reliable as it must be but no more
+3.Error budgets are your primary basis of communication 
+4.SLOs are not set in stone forever
+5.The team relationship has be strong to make this work
+
   
 
 
