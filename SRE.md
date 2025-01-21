@@ -171,6 +171,14 @@ MTBF-->Mean time  between failures
 
 5.The team relationship has be strong to make this work
 
+**The properties of good SLI metrics**
+
+* Has predictable relationship with users happiness
+* Show service is working as users expect it to
+* Expressed as :Good events/Valid events
+* Aggregated over a long time horizon
+
+**Ways of measuring SLIs**
   
 
 
