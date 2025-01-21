@@ -179,6 +179,11 @@ MTBF-->Mean time  between failures
 * Aggregated over a long time horizon
 
 **Ways of measuring SLIs**
+* Request logs
+* Application Metrics
+* Front-end infra metrics
+* Synthetic clients
+* Client-Side Instrumentation
   
 
 
