@@ -184,6 +184,23 @@ MTBF-->Mean time  between failures
 * Front-end infra metrics
 * Synthetic clients
 * Client-Side Instrumentation
-  
+
+**Request/Response SLIs**
+* Availability -The proportion of minutes a virtual machine was booted and accessible
+* Latency -The Proportion of work-queue tasks that are completed faster than a threshold
+* Quality -The proportion of valid requests served without degrading quality
+
+**Data processing SLIs**
+* Freshness SLI-The proportion of valid data updated more recently than a threshold
+* Correctness SLI-The proportion pf valid data producing correct output
+* Coverage SLI-The Proportion of valid data processed successfully
+* Throughput SLI -The proportion of time where the data processing rate is faster than a threshold
+
+**Bucketing**
+Bucketing simplifies analysis by reducing complexity, highlighting patterns, and allowing for targeted optimization based on meaningful categories.  
+**Achieveable SLOs**
+User expectations are strongly tied to past performance 
+
+
 
 
