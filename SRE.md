@@ -201,6 +201,24 @@ Bucketing simplifies analysis by reducing complexity, highlighting patterns, and
 **Achieveable SLOs**
 User expectations are strongly tied to past performance 
 
+**SLI 4 steps proces**
+
+1.Choose SLI specification
+
+2.Refine the specification into SLI implementation 
+
+3.Walk through the user Journey and look for coverage gaps
+
+4.Set the aspirational SLO targets based on the business needs 
+
+**Refining SLI specifications**
+* Where is SLI is measured
+* What does SLI measure
+* What metrics should be included or excluded
+* is there enough details to implement this SLI
+
+
+
 
 
 
