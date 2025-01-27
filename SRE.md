@@ -217,6 +217,10 @@ User expectations are strongly tied to past performance
 * What metrics should be included or excluded
 * is there enough details to implement this SLI
 
+**Downtime**
+1.Time to Detection 
+2.Time to Resolution
+3.Percentage of users impacted 
 
 
 
