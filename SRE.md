@@ -222,6 +222,14 @@ User expectations are strongly tied to past performance
 2.Time to Resolution
 3.Percentage of users impacted 
 
+**Fundamentals of an error budget policy**
+1. Result in engineering to improve reliability.
+2. Describe when this happens
+3. Describe how this happens
+4. Include consequences for this not happening
+5. Be Consistently applied
+6. Document whom to escalate disagreement
+7. Be agreed upon and signed off by all parties 
 
 
 
