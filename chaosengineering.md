@@ -47,7 +47,16 @@ The automated abort conditions are called <b>health checks</b>
      * Latency
      * Packet Loss
      * DNS
-     * Certificate expiry 
+     * Certificate expiry
+
+Chaos Engineering adoption is to play its safe and start at small scale instead entire activity at once 
+
+### Four metrics to measure reliability 
+1.   Uptime
+2.   Service level agreements (SLA)
+3.   Mean time between failures(MTBF)
+4.   Mean tim to resolution(MTTR)
+   
    
  
 
