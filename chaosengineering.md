@@ -12,7 +12,7 @@
 ## Chaos engineering steps 
  1. Create a Hypothesis.
      * How do you expect your systems to respond to a certain type of fault. 
- 2. Define the experiment
+ 2. Define the Experiment
     * What type of fault are you injecting and which systems do you want to test.
  3. Observer your system to understand its baseline behavior
     * Use an observability tool to measure key metrics about your system related to the test
@@ -20,7 +20,35 @@
      * Inject faults to test the hypothesis
  5. Analyze the results
      * Observations gathered during the experiment to determine wheather systems passed or not. What fixed you may need to apply
- 
+
+### Abort conditions 
+Abort conditions are system conditions that indicate when we should stop a chaos experiment to avoid negatively impacting other systems or users.
+
+Compare system state to  abort conditions.
+* Abort if the system crashes or restarts.
+* Abort if we lose network connection to the test system.
+* Abort if we exceed our SLIs, SLAs, or SLOs.
+
+The automated abort conditions are called <b>health checks</b>
+
+### Faults categories in 3 types
+1.   State
+      * Shutdown
+      * Time Travel
+      * Process killer
+2.   Resources
+     * CPU
+     * Memory
+     * IO
+     * Disk
+
+3.   Network
+     * Black hole
+     * Latency
+     * Packet Loss
+     * DNS
+     * Certificate expiry 
+   
  
 
 
